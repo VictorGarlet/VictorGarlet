@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalhando com back-end
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- 📈 Mercado Financeiro
 
 <div align="center">
   <a href="https://github.com/victorgarlet">
